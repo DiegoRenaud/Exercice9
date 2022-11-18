@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Victor et Marion les chefs. Juste vicoroto
-jbzjkqbfkrjhea
-=======
 Victor et Marion les chefs. Juste victor parent
 
->>>>>>> 0d33652b1c907dac89455540f2aadda50d253b2e
+
